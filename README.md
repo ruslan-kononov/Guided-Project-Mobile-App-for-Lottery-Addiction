@@ -11,4 +11,6 @@ In this guided project we aim to build a business logic of a dedicated mobile ap
 
 As part of the project, we will also consider historical data coming from the national 6/49 lottery game in Canada. <a href='https://www.kaggle.com/datascienceai/lottery-dataset'>The data set</a> has data for 3,665 drawings, dating from 1982 to 2018.
 
-__NB! This project is carried out according to the <a href='https://app.dataquest.io/m/382/guided-project%3A-mobile-app-for-lottery-addiction/1/introduction'>dataquest</a> instructions.__
+<a href='https://nbviewer.jupyter.org/github/ruslan-kononov/Guided-Project-Mobile-App-for-Lottery-Addiction/blob/master/Mobile%20App%20for%20Lottery%20Addiction.%20Determining%20Business%20Logic.ipynb">Click here to view the jupyter notebook file</a>
+
+__NB! This project is carried out according to the <a href='https://app.dataquest.io/m/382/guided-project%3A-mobile-app-for-lottery-addiction/1/introduction'>Dataquest</a> instructions.__
